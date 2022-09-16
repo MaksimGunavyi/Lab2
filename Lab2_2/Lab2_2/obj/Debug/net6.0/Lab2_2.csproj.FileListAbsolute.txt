@@ -1,0 +1,15 @@
+C:\University Lab\Lab2_2\Lab2_2\bin\Debug\net6.0\Lab2_2.exe
+C:\University Lab\Lab2_2\Lab2_2\bin\Debug\net6.0\Lab2_2.deps.json
+C:\University Lab\Lab2_2\Lab2_2\bin\Debug\net6.0\Lab2_2.runtimeconfig.json
+C:\University Lab\Lab2_2\Lab2_2\bin\Debug\net6.0\Lab2_2.dll
+C:\University Lab\Lab2_2\Lab2_2\bin\Debug\net6.0\Lab2_2.pdb
+C:\University Lab\Lab2_2\Lab2_2\obj\Debug\net6.0\Lab2_2.csproj.AssemblyReference.cache
+C:\University Lab\Lab2_2\Lab2_2\obj\Debug\net6.0\Lab2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\University Lab\Lab2_2\Lab2_2\obj\Debug\net6.0\Lab2_2.AssemblyInfoInputs.cache
+C:\University Lab\Lab2_2\Lab2_2\obj\Debug\net6.0\Lab2_2.AssemblyInfo.cs
+C:\University Lab\Lab2_2\Lab2_2\obj\Debug\net6.0\Lab2_2.csproj.CoreCompileInputs.cache
+C:\University Lab\Lab2_2\Lab2_2\obj\Debug\net6.0\Lab2_2.dll
+C:\University Lab\Lab2_2\Lab2_2\obj\Debug\net6.0\refint\Lab2_2.dll
+C:\University Lab\Lab2_2\Lab2_2\obj\Debug\net6.0\Lab2_2.pdb
+C:\University Lab\Lab2_2\Lab2_2\obj\Debug\net6.0\Lab2_2.genruntimeconfig.cache
+C:\University Lab\Lab2_2\Lab2_2\obj\Debug\net6.0\ref\Lab2_2.dll
